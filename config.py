@@ -25,8 +25,8 @@ DEEPSEEK_MODEL = "deepseek-flash"     # টেক্সট + ভিশন দু
 # ============================================================
 #  MODEL SETTINGS
 # ============================================================
-GEMINI_MODEL_NAME = "gemini-2.0-flash"
-SIMILARITY_THRESHOLD = 0.45
+GEMINI_MODEL_NAME = "gemini-3.8-flash"
+SIMILARITY_THRESHOLD = 0.35
 GEMINI_MAX_RETRIES = 3
 
 # ============================================================
